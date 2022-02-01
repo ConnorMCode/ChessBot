@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8414bcb909b2aca4d89b42ea463c2b37
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _squarePF: {fileID: 6320218225864856102, guid: c63a52b60bb6b5e499e1583d657f78e9, type: 3}
+  - _PiecePF: {fileID: 8406465443282930635, guid: e504be0a53479f949971919c0555c1a4, type: 3}
+  - _cam: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
